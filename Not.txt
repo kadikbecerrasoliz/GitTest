@@ -1,3 +1,7 @@
 This was not
 This has been so far easy to learn
 Okay
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
